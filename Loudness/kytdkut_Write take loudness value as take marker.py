@@ -1,6 +1,6 @@
 # @version 1.0
 # @author kytdkut
-# @description Write take loudness value as take marker
+# description Write take loudness value as take marker
 
 import reaper_python
 from sws_python import *

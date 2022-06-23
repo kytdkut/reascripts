@@ -1,4 +1,4 @@
--- @description Trim left edge of item under edit cursor on selected tracks, or all tracks if none selected
+-- description Trim left edge of item under edit cursor on selected tracks, or all tracks if none selected
 -- @version 1.0
 -- @author kytdkut
 

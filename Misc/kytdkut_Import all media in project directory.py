@@ -1,4 +1,4 @@
-# @description Import all media in project directory
+# description Import all media in project directory
 # @version 1.0
 # @author kytdkut
 

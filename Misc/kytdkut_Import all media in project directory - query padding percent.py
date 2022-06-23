@@ -1,4 +1,4 @@
-# @description Import all media in project directory - query padding percent
+# description Import all media in project directory - query padding percent
 # @version 1.0
 # @author kytdkut
 

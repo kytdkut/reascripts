@@ -1,4 +1,4 @@
-# @description Import all media in project directory - query padding seconds
+# description Import all media in project directory - query padding seconds
 # @version 1.0
 # @author kytdkut
 

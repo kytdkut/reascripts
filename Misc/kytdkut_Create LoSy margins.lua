@@ -1,5 +1,5 @@
+-- description Create LoSy margins - TiSy
 -- @version 1.0
--- @description Create LoSy margins - TiSy
 -- @author kytdkut
 
 -- Sound in Words - only intended for internal use

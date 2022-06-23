@@ -1,4 +1,4 @@
--- @description Move cursor to time selection start
+-- description Move cursor to time selection start
 -- @version 1.0
 -- @author kytdkut
 

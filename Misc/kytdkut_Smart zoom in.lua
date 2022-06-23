@@ -1,4 +1,4 @@
--- @description Smart zoom in
+-- description Smart zoom in
 -- @version 1.0
 -- @author kytdkut
 -- @about zooms in to the center of the screen if the edit cursor is not visible, or to the edit cursor if it is visible

@@ -1,4 +1,4 @@
--- @description Reset height for all tracks
+-- description Reset height for all tracks
 -- @version 1.0
 -- @author kytdkut
 -- @about tune 'height_px' to your liking

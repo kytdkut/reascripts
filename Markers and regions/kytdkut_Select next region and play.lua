@@ -1,4 +1,4 @@
--- @description Select next region and play
+-- description Select next region and play
 -- @version 1.0
 -- @author kytdkut
 

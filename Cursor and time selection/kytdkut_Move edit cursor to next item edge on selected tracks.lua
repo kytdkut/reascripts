@@ -1,4 +1,4 @@
--- @description move to next item edge on selected tracks
+-- description move to next item edge on selected tracks
 -- @version 1.0
 -- @author kytdkut
 

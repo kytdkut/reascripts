@@ -1,4 +1,4 @@
--- @description Select and move to previous item end or start of selected item
+-- description Select and move to previous item end or start of selected item
 -- @version 1.0
 -- @author kytdkut
 

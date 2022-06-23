@@ -1,4 +1,4 @@
--- @description extend time selection to previous item edge on selected tracks
+-- description extend time selection to previous item edge on selected tracks
 -- @version 1.0
 -- @author kytdkut
 

@@ -1,4 +1,4 @@
--- @description Enclose selected tracks in a new folder track
+-- description Enclose selected tracks in a new folder track
 -- @version 1.0
 -- @author kytdkut
 

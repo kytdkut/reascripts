@@ -1,4 +1,4 @@
--- @description Add next track to selected tracks
+-- description Add next track to selected tracks
 -- @version 1.0
 -- @author kytdkut
 

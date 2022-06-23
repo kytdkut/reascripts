@@ -1,4 +1,4 @@
--- @description Track record arm exclusive
+-- description Track record arm exclusive
 -- @version 1.0
 -- @author kytdkut
 

@@ -1,4 +1,4 @@
--- @description Insert QA from clipboard into project
+-- description Insert QA from clipboard into project
 -- @version 1.0
 -- @author kytdkut
 

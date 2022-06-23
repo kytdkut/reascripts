@@ -1,4 +1,4 @@
--- @description Shrink selected items to fit their regions
+-- description Shrink selected items to fit their regions
 -- @version 1.0
 -- @author kytdkut
 

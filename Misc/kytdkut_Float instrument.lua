@@ -1,4 +1,4 @@
--- @description Float first VSTi on selected track
+-- description Float first VSTi on selected track
 -- @version 1.0
 -- @author kytdkut
 

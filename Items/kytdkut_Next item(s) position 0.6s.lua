@@ -1,4 +1,4 @@
--- @description position next item on track 0.6s of cursor or end of selected item (if any) - ripple all
+-- description position next item on track 0.6s of cursor or end of selected item (if any) - ripple all
 -- @version 1.0
 -- @author kytdkut
 

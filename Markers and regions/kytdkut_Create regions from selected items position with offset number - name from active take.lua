@@ -1,4 +1,4 @@
--- @description Create regions from selected item position with offset number, rename from active take
+-- description Create regions from selected item position with offset number, rename from active take
 -- @version 1.0
 -- @author kytdkut
 

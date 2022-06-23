@@ -1,4 +1,4 @@
--- @description Track solo exclusive
+-- description Track solo exclusive
 -- @version 1.0
 -- @author kytdkut
 

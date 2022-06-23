@@ -1,4 +1,4 @@
--- @description Remove string pattern from existing regions names
+-- description Remove string pattern from existing regions names
 -- @version 1.0
 -- @author kytdkut
 

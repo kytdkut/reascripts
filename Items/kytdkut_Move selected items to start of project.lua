@@ -1,4 +1,4 @@
--- @description Move selected items to start of project
+-- description Move selected items to start of project
 -- @version 1.0
 -- @author kytdkut
 
