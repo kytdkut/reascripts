@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="kytdkut's reascripts" commit="276328dee52784ada3dfc47f5fcd139a4fcf4521">
+<index version="1" name="kytdkut's reascripts" commit="37b81b734ed2abbaf3f7fd602398061bfb5b6a06">
   <category name="Cursor and time selection">
     <reapack name="kytdkut_Extend time selection to next item edge on selected tracks.lua" type="script">
       <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
@@ -168,7 +168,7 @@
         <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Smart%20zoom%20in.lua</source>
       </version>
     </reapack>
-    <reapack name="kytdkut_Smart Zoom out.lua" type="script">
+    <reapack name="kytdkut_Smart zoom out.lua" type="script">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -178,8 +178,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
-        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Smart%20Zoom%20out.lua</source>
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:55:15Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/37b81b734ed2abbaf3f7fd602398061bfb5b6a06/Misc/kytdkut_Smart%20zoom%20out.lua</source>
       </version>
     </reapack>
   </category>
