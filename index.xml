@@ -1,10 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="kytdkut's reascripts" commit="2c901c5cbc0fa179494d7219db2ec1c89647acb7">
-<metadata><description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+<index version="1" name="kytdkut's reascripts" commit="276328dee52784ada3dfc47f5fcd139a4fcf4521">
+  <category name="Cursor and time selection">
+    <reapack name="kytdkut_Extend time selection to next item edge on selected tracks.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Extend%20time%20selection%20to%20next%20item%20edge%20on%20selected%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Extend time selection to previous item edge on selected tracks.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Extend%20time%20selection%20to%20previous%20item%20edge%20on%20selected%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Move cursor to time selection end.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Move%20cursor%20to%20time%20selection%20end.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Move cursor to time selection start.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Move%20cursor%20to%20time%20selection%20start.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Move edit cursor to next item edge on selected tracks.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Move%20edit%20cursor%20to%20next%20item%20edge%20on%20selected%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Move edit cursor to previous item edge on selected tracks.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Move%20edit%20cursor%20to%20previous%20item%20edge%20on%20selected%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Select and move to next item or this item right edge.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Select%20and%20move%20to%20next%20item%20or%20this%20item%20right%20edge.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Select and move to previous item or this item left edge.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Cursor%20and%20time%20selection/kytdkut_Select%20and%20move%20to%20previous%20item%20or%20this%20item%20left%20edge.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Items">
+    <reapack name="kytdkut_Move selected items to start of project.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Items/kytdkut_Move%20selected%20items%20to%20start%20of%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Next item(s) position 0.25s.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Items/kytdkut_Next%20item(s)%20position%200.25s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Next item(s) position 0.6s.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Items/kytdkut_Next%20item(s)%20position%200.6s.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Shrink selected items to fit their regions.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Items/kytdkut_Shrink%20selected%20items%20to%20fit%20their%20regions.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Trim left edge of items on selected tracks or selected items.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Items/kytdkut_Trim%20left%20edge%20of%20items%20on%20selected%20tracks%20or%20selected%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Trim right edge of items on selected tracks or selected items.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Items/kytdkut_Trim%20right%20edge%20of%20items%20on%20selected%20tracks%20or%20selected%20items.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Loudness">
+    <reapack name="kytdkut_Compare loudness.py" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Loudness/kytdkut_Compare%20loudness.py</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Write take loudness value as take marker.py" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Loudness/kytdkut_Write%20take%20loudness%20value%20as%20take%20marker.py</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Markers and regions">
+    <reapack name="kytdkut_Clear region render matrix.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Markers%20and%20regions/kytdkut_Clear%20region%20render%20matrix.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Create markers from selected items position with offset number - name from active take.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Markers%20and%20regions/kytdkut_Create%20markers%20from%20selected%20items%20position%20with%20offset%20number%20-%20name%20from%20active%20take.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Create regions from selected items position with offset number - name from active take.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Markers%20and%20regions/kytdkut_Create%20regions%20from%20selected%20items%20position%20with%20offset%20number%20-%20name%20from%20active%20take.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Remove string pattern from existing regions names.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Markers%20and%20regions/kytdkut_Remove%20string%20pattern%20from%20existing%20regions%20names.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Select next region and play.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Markers%20and%20regions/kytdkut_Select%20next%20region%20and%20play.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Select previous region and play.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Markers%20and%20regions/kytdkut_Select%20previous%20region%20and%20play.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Misc">
+    <reapack name="kytdkut_Create LoSy margins - percent.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Create%20LoSy%20margins%20-%20percent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Create LoSy margins.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Create%20LoSy%20margins.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Float instrument.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Float%20instrument.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Import all media in project directory - query padding percent.py" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Import%20all%20media%20in%20project%20directory%20-%20query%20padding%20percent.py</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Import all media in project directory - query padding.py" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Import%20all%20media%20in%20project%20directory%20-%20query%20padding.py</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Import all media in project directory.py" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Import%20all%20media%20in%20project%20directory.py</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Insert QA from clipboard into project.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Insert%20QA%20from%20clipboard%20into%20project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Smart zoom in.lua" type="script">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 zooms in to the center of the screen if the edit cursor is not visible, or to the edit cursor if it is visible\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Smart%20zoom%20in.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Smart Zoom out.lua" type="script">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 zooms out to the center of the screen if the edit cursor is not visible, or to the edit cursor if it is visible\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Smart%20Zoom%20out.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Tracks">
+    <reapack name="kytdkut_Add next track to selection.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Tracks/kytdkut_Add%20next%20track%20to%20selection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Add previous track to selection.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Tracks/kytdkut_Add%20previous%20track%20to%20selection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Put selected tracks in a new folder track.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Tracks/kytdkut_Put%20selected%20tracks%20in%20a%20new%20folder%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Reset all tracks to default height.lua" type="script">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 tune 'height_px' to your liking\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Tracks/kytdkut_Reset%20all%20tracks%20to%20default%20height.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Track record arm exclusive.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Tracks/kytdkut_Track%20record%20arm%20exclusive.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kytdkut_Track solo exclusive.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Tracks/kytdkut_Track%20solo%20exclusive.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 kytdkut's reascripts\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 ReaPack link: https://github.com/kytdkut/reascripts/raw/master/index.xml\par}
 }
-]]></description></metadata></index>
+]]></description>
+  </metadata>
+</index>
