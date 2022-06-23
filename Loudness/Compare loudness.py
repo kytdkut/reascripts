@@ -1,4 +1,7 @@
 # @version 1.0
+# @author kytdkut
+# @description Compare loudness between regions of a reference track and rendered files
+
 # Sound in Words - only intended for internal use
 # Compare loudness between regions of a reference track and rendered files
 # TODO: clear redundant code
