@@ -40,6 +40,7 @@ end
 
 if retval then
     reaper.Undo_BeginBlock()
+    reaper.PreventUIRefresh(1)
     reaper.SetEditCurPos(0, 1, 1)
     GetFilesInMediaFolder()
     for i in pairs(files) do
@@ -47,5 +48,6 @@ if retval then
     end
     RepositionItems()
     reaper.SetEditCurPos(0, 1, 1)
+    reaper.PreventUIRefresh(-1)
     reaper.Undo_EndBlock("Import all media in project directory - query padding", -1)
 end
