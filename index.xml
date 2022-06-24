@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="kytdkut's reascripts" commit="37b81b734ed2abbaf3f7fd602398061bfb5b6a06">
+<index version="1" name="kytdkut's reascripts" commit="a3157024789c279151a25bf689df4ca4b2dadb95">
   <category name="Cursor and time selection">
     <reapack name="kytdkut_Extend time selection to next item edge on selected tracks.lua" type="script">
       <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
@@ -134,19 +134,19 @@
         <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Float%20instrument.lua</source>
       </version>
     </reapack>
-    <reapack name="kytdkut_Import all media in project directory - query padding percent.py" type="script">
-      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
-        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Import%20all%20media%20in%20project%20directory%20-%20query%20padding%20percent.py</source>
+    <reapack name="kytdkut_Import all media in project directory - query padding percent.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-24T00:39:25Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/a3157024789c279151a25bf689df4ca4b2dadb95/Misc/kytdkut_Import%20all%20media%20in%20project%20directory%20-%20query%20padding%20percent.lua</source>
       </version>
     </reapack>
-    <reapack name="kytdkut_Import all media in project directory - query padding.py" type="script">
-      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
-        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Import%20all%20media%20in%20project%20directory%20-%20query%20padding.py</source>
+    <reapack name="kytdkut_Import all media in project directory - query padding.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-24T00:39:25Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/a3157024789c279151a25bf689df4ca4b2dadb95/Misc/kytdkut_Import%20all%20media%20in%20project%20directory%20-%20query%20padding.lua</source>
       </version>
     </reapack>
-    <reapack name="kytdkut_Import all media in project directory.py" type="script">
-      <version name="1.0" author="kytdkut" time="2022-06-23T17:37:21Z">
-        <source main="main">https://github.com/kytdkut/reascripts/raw/276328dee52784ada3dfc47f5fcd139a4fcf4521/Misc/kytdkut_Import%20all%20media%20in%20project%20directory.py</source>
+    <reapack name="kytdkut_Import all media in project directory.lua" type="script">
+      <version name="1.0" author="kytdkut" time="2022-06-24T00:39:25Z">
+        <source main="main">https://github.com/kytdkut/reascripts/raw/a3157024789c279151a25bf689df4ca4b2dadb95/Misc/kytdkut_Import%20all%20media%20in%20project%20directory.lua</source>
       </version>
     </reapack>
     <reapack name="kytdkut_Insert QA from clipboard into project.lua" type="script">
