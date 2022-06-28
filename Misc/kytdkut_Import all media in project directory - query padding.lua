@@ -19,6 +19,7 @@ function GetFilesInMediaFolder()
             i = i + 1
         end
     until not file
+    table.sort(files)
 end
 
 function RepositionItems()
