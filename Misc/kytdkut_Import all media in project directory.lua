@@ -5,6 +5,7 @@
 -- Sound in Words - only intended for internal use
 local project_path = reaper.GetProjectPath(0)
 local files = {}
+local selected_track = reaper.GetSelectedTrack(0, 0)
 
 function GetFilesInMediaFolder()
     local i = 0
@@ -22,7 +23,6 @@ function GetFilesInMediaFolder()
 end
 
 function RepositionItems()
-    local selected_track = reaper.GetSelectedTrack(0, 0)
     local num_items = reaper.CountTrackMediaItems(selected_track)
     -- first repositioning - 2x item dur
     for i = num_items - 1, 1, -1 do -- reverse iterate
@@ -38,15 +38,16 @@ function RepositionItems()
     end
 end
 
-
-reaper.Undo_BeginBlock()
-reaper.PreventUIRefresh(1)
-reaper.SetEditCurPos(0, 1, 1)
-GetFilesInMediaFolder()
-for i in pairs(files) do
-    reaper.InsertMedia(project_path .. "/"  .. files[i], 0)
+if selected_track then
+	reaper.Undo_BeginBlock()
+	reaper.PreventUIRefresh(1)
+	reaper.SetEditCurPos(0, 1, 1)
+	GetFilesInMediaFolder()
+	for i in pairs(files) do
+	    reaper.InsertMedia(project_path .. "/"  .. files[i], 0)
+	end
+	RepositionItems()
+	reaper.SetEditCurPos(0, 1, 1)
+	reaper.PreventUIRefresh(-1)
+	reaper.Undo_EndBlock("Import all media in project directory - query padding", -1)
 end
-RepositionItems()
-reaper.SetEditCurPos(0, 1, 1)
-reaper.PreventUIRefresh(-1)
-reaper.Undo_EndBlock("Import all media in project directory - query padding", -1)

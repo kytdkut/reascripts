@@ -6,6 +6,7 @@
 local project_path = reaper.GetProjectPath(0)
 local files = {}
 local retval, padding_amount = reaper.GetUserInputs("Insert padding amount", 1, "Amount in seconds:", 2, 100)
+local selected_track = reaper.GetSelectedTrack(0, 0)
 
 function GetFilesInMediaFolder()
     local i = 0
@@ -23,7 +24,6 @@ function GetFilesInMediaFolder()
 end
 
 function RepositionItems()
-    local selected_track = reaper.GetSelectedTrack(0, 0)
     local num_items = reaper.CountTrackMediaItems(selected_track)
     -- first repositioning - 2x item dur
     for i = num_items - 1, 1, -1 do -- reverse iterate
@@ -39,7 +39,7 @@ function RepositionItems()
     end
 end
 
-if retval then
+if retval and selected_track then
     reaper.Undo_BeginBlock()
     reaper.PreventUIRefresh(1)
     reaper.SetEditCurPos(0, 1, 1)
