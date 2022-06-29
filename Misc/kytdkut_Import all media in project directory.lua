@@ -1,5 +1,5 @@
 -- description Import all media in project directory
--- @version 1.01
+-- @version 1.02
 -- @author kytdkut
 
 -- Sound in Words - only intended for internal use
